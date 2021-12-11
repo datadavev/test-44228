@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Logger;
  * 
  * Start a listener on remote service, like:
  * 
- *   sudo tcpdump -i any tcp port 11234
+ *   sudo tcpdump -i any tcp port 1234
  * 
  * Not OK:
  * 
